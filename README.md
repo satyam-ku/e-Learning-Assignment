@@ -1,4 +1,4 @@
-#E-Learning Platform Database
+E-Learning Platform Database
 MongoDB Mini Capstone Project (MERN Stack Preparation)
 
 📌 Project Overview
@@ -203,6 +203,7 @@ This project provides a strong foundation for full-stack MERN application develo
 Name: Satyam Kumar
 Project Type: MongoDB Mini Capstone
 Technology: MongoDB
+
 
 
 
