@@ -1,5 +1,6 @@
-#📘 E-Learning Platform Database
-#MongoDB Mini Capstone Project (MERN Stack Preparation)
+#E-Learning Platform Database
+MongoDB Mini Capstone Project (MERN Stack Preparation)
+
 📌 Project Overview
 
 This project presents the design and implementation of a MongoDB database for an E-Learning platform similar to Udemy. The system manages students, instructors, courses, lessons, enrollments, reviews, and payments.
@@ -202,5 +203,6 @@ This project provides a strong foundation for full-stack MERN application develo
 Name: Satyam Kumar
 Project Type: MongoDB Mini Capstone
 Technology: MongoDB
+
 
 
